@@ -1,0 +1,206 @@
+  #     Given Class                Predicted Class
+--------------------------------------------------
+  1     Buck-I-Mart  ------------  Buck-I-Mart
+  2         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+  3     Buck-I-Mart  ------------  Buck-I-Mart
+  4         Oxley's  xxxxxxxxxxxx  Brennan's
+  5         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+  6     Buck-I-Mart  ------------  Buck-I-Mart
+  7     Buck-I-Mart  ------------  Buck-I-Mart
+  8         Oxley's  ------------  Oxley's
+  9    Oxley's cafe  ------------  Oxley's cafe
+ 10     Buck-I-Mart  ------------  Buck-I-Mart
+ 11       Brennan's  ------------  Brennan's
+ 12     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+ 13     Buck-I-Mart  ------------  Buck-I-Mart
+ 14    Oxley's cafe  ------------  Oxley's cafe
+ 15       Brennan's  ------------  Brennan's
+ 16     Buck-I-Mart  ------------  Buck-I-Mart
+ 17         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 18       Brennan's  ------------  Brennan's
+ 19     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+ 20         Oxley's  xxxxxxxxxxxx  Brennan's
+ 21     Buck-I-Mart  ------------  Buck-I-Mart
+ 22    Oxley's cafe  xxxxxxxxxxxx  Brennan's
+ 23    Oxley's cafe  ------------  Oxley's cafe
+ 24       Brennan's  ------------  Brennan's
+ 25         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 26       Brennan's  xxxxxxxxxxxx  Oxley's
+ 27         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 28       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 29     Buck-I-Mart  ------------  Buck-I-Mart
+ 30         Oxley's  xxxxxxxxxxxx  Brennan's
+ 31       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 32       Brennan's  ------------  Brennan's
+ 33         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 34       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 35       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 36       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 37       Brennan's  ------------  Brennan's
+ 38         Oxley's  xxxxxxxxxxxx  Brennan's
+ 39     Buck-I-Mart  ------------  Buck-I-Mart
+ 40         Oxley's  ------------  Oxley's
+ 41     Buck-I-Mart  ------------  Buck-I-Mart
+ 42     Buck-I-Mart  ------------  Buck-I-Mart
+ 43     Buck-I-Mart  ------------  Buck-I-Mart
+ 44         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 45         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+ 46       Brennan's  ------------  Brennan's
+ 47    Oxley's cafe  xxxxxxxxxxxx  Brennan's
+ 48    Oxley's cafe  xxxxxxxxxxxx  Buck-I-Mart
+ 49    Oxley's cafe  xxxxxxxxxxxx  Buck-I-Mart
+ 50     Buck-I-Mart  ------------  Buck-I-Mart
+ 51     Buck-I-Mart  xxxxxxxxxxxx  Oxley's
+ 52     Buck-I-Mart  ------------  Buck-I-Mart
+ 53    Oxley's cafe  ------------  Oxley's cafe
+ 54     Buck-I-Mart  ------------  Buck-I-Mart
+ 55     Buck-I-Mart  ------------  Buck-I-Mart
+ 56    Oxley's cafe  ------------  Oxley's cafe
+ 57       Brennan's  ------------  Brennan's
+ 58       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 59       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 60    Oxley's cafe  xxxxxxxxxxxx  Brennan's
+ 61     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+ 62    Oxley's cafe  ------------  Oxley's cafe
+ 63         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+ 64         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+ 65       Brennan's  ------------  Brennan's
+ 66     Buck-I-Mart  ------------  Buck-I-Mart
+ 67     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+ 68     Buck-I-Mart  ------------  Buck-I-Mart
+ 69    Oxley's cafe  ------------  Oxley's cafe
+ 70     Buck-I-Mart  ------------  Buck-I-Mart
+ 71     Buck-I-Mart  ------------  Buck-I-Mart
+ 72     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+ 73     Buck-I-Mart  ------------  Buck-I-Mart
+ 74     Buck-I-Mart  ------------  Buck-I-Mart
+ 75     Buck-I-Mart  ------------  Buck-I-Mart
+ 76         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 77    Oxley's cafe  ------------  Oxley's cafe
+ 78         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 79     Buck-I-Mart  ------------  Buck-I-Mart
+ 80         Oxley's  xxxxxxxxxxxx  Brennan's
+ 81     Buck-I-Mart  ------------  Buck-I-Mart
+ 82         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+ 83         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+ 84       Brennan's  ------------  Brennan's
+ 85         Oxley's  ------------  Oxley's
+ 86         Oxley's  xxxxxxxxxxxx  Brennan's
+ 87         Oxley's  xxxxxxxxxxxx  Brennan's
+ 88     Buck-I-Mart  ------------  Buck-I-Mart
+ 89         Oxley's  xxxxxxxxxxxx  Brennan's
+ 90       Brennan's  ------------  Brennan's
+ 91         Oxley's  xxxxxxxxxxxx  Brennan's
+ 92     Buck-I-Mart  ------------  Buck-I-Mart
+ 93     Buck-I-Mart  ------------  Buck-I-Mart
+ 94     Buck-I-Mart  ------------  Buck-I-Mart
+ 95     Buck-I-Mart  ------------  Buck-I-Mart
+ 96       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+ 97     Buck-I-Mart  ------------  Buck-I-Mart
+ 98    Oxley's cafe  ------------  Oxley's cafe
+ 99     Buck-I-Mart  ------------  Buck-I-Mart
+100       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+101     Buck-I-Mart  ------------  Buck-I-Mart
+102         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+103       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+104     Buck-I-Mart  ------------  Buck-I-Mart
+105     Buck-I-Mart  ------------  Buck-I-Mart
+106     Buck-I-Mart  ------------  Buck-I-Mart
+107     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+108       Brennan's  ------------  Brennan's
+109     Buck-I-Mart  ------------  Buck-I-Mart
+110         Oxley's  xxxxxxxxxxxx  Brennan's
+111         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+112       Brennan's  ------------  Brennan's
+113       Brennan's  ------------  Brennan's
+114     Buck-I-Mart  ------------  Buck-I-Mart
+115    Oxley's cafe  ------------  Oxley's cafe
+116       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+117     Buck-I-Mart  ------------  Buck-I-Mart
+118       Brennan's  ------------  Brennan's
+119       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+120     Buck-I-Mart  ------------  Buck-I-Mart
+121     Buck-I-Mart  ------------  Buck-I-Mart
+122     Buck-I-Mart  ------------  Buck-I-Mart
+123     Buck-I-Mart  ------------  Buck-I-Mart
+124         Oxley's  xxxxxxxxxxxx  Brennan's
+125     Buck-I-Mart  ------------  Buck-I-Mart
+126       Brennan's  ------------  Brennan's
+127       Brennan's  ------------  Brennan's
+128       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+129       Brennan's  xxxxxxxxxxxx  Oxley's
+130     Buck-I-Mart  ------------  Buck-I-Mart
+131       Brennan's  ------------  Brennan's
+132     Buck-I-Mart  ------------  Buck-I-Mart
+133     Buck-I-Mart  ------------  Buck-I-Mart
+134       Brennan's  ------------  Brennan's
+135     Buck-I-Mart  ------------  Buck-I-Mart
+136     Buck-I-Mart  ------------  Buck-I-Mart
+137     Buck-I-Mart  ------------  Buck-I-Mart
+138     Buck-I-Mart  ------------  Buck-I-Mart
+139       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+140       Brennan's  ------------  Brennan's
+141       Brennan's  xxxxxxxxxxxx  Oxley's
+142     Buck-I-Mart  ------------  Buck-I-Mart
+143         Oxley's  xxxxxxxxxxxx  Brennan's
+144         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+145     Buck-I-Mart  ------------  Buck-I-Mart
+146     Buck-I-Mart  xxxxxxxxxxxx  Oxley's
+147     Buck-I-Mart  ------------  Buck-I-Mart
+148     Buck-I-Mart  ------------  Buck-I-Mart
+149         Oxley's  xxxxxxxxxxxx  Brennan's
+150         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+151       Brennan's  ------------  Brennan's
+152       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+153       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+154     Buck-I-Mart  ------------  Buck-I-Mart
+155       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+156         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+157    Oxley's cafe  xxxxxxxxxxxx  Buck-I-Mart
+158    Oxley's cafe  ------------  Oxley's cafe
+159    Oxley's cafe  xxxxxxxxxxxx  Buck-I-Mart
+160         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+161     Buck-I-Mart  ------------  Buck-I-Mart
+162     Buck-I-Mart  ------------  Buck-I-Mart
+163     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+164         Oxley's  xxxxxxxxxxxx  Brennan's
+165         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+166     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+167     Buck-I-Mart  ------------  Buck-I-Mart
+168       Brennan's  ------------  Brennan's
+169     Buck-I-Mart  ------------  Buck-I-Mart
+170     Buck-I-Mart  ------------  Buck-I-Mart
+171         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+172    Oxley's cafe  ------------  Oxley's cafe
+173         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+174         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+175     Buck-I-Mart  ------------  Buck-I-Mart
+176     Buck-I-Mart  ------------  Buck-I-Mart
+177       Brennan's  ------------  Brennan's
+178         Oxley's  xxxxxxxxxxxx  Buck-I-Mart
+179    Oxley's cafe  ------------  Oxley's cafe
+180       Brennan's  ------------  Brennan's
+181     Buck-I-Mart  ------------  Buck-I-Mart
+182    Oxley's cafe  ------------  Oxley's cafe
+183     Buck-I-Mart  ------------  Buck-I-Mart
+184    Oxley's cafe  xxxxxxxxxxxx  Buck-I-Mart
+185     Buck-I-Mart  ------------  Buck-I-Mart
+186     Buck-I-Mart  ------------  Buck-I-Mart
+187    Oxley's cafe  xxxxxxxxxxxx  Buck-I-Mart
+188    Oxley's cafe  ------------  Oxley's cafe
+189    Oxley's cafe  ------------  Oxley's cafe
+190       Brennan's  ------------  Brennan's
+191       Brennan's  ------------  Brennan's
+192     Buck-I-Mart  ------------  Buck-I-Mart
+193     Buck-I-Mart  ------------  Buck-I-Mart
+194       Brennan's  ------------  Brennan's
+195         Oxley's  xxxxxxxxxxxx  Brennan's
+196    Oxley's cafe  ------------  Oxley's cafe
+197     Buck-I-Mart  ------------  Buck-I-Mart
+198     Buck-I-Mart  xxxxxxxxxxxx  Brennan's
+199         Oxley's  xxxxxxxxxxxx  Oxley's cafe
+200       Brennan's  xxxxxxxxxxxx  Buck-I-Mart
+--------------------------------------------------
+Total number of instances in test data = 200
+Number of correctly predicted instances = 118
+Accuracy of decision tree classifier = 236%

@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DataConversionWarning	validation.py	/^class DataConversionWarning(_DataConversionWarning):$/;"	c
+FLOAT_DTYPES	validation.py	/^FLOAT_DTYPES = (np.float64,np.float32,np.float16)$/;"	v
+NonBLADotWarning	validation.py	/^class NonBLADotWarning(_NonBLASDotWarning):$/;"	c
+NotFittedError	validation.py	/^class NotFittedError(_NotFittedError):$/;"	c
+__all__	deprecation.py	/^__all__ = ["deprecated",]$/;"	v
+__all__	init.py	/^__all__ = [$/;"	v
+__call__	deprecation.py	/^    def __call__(self,obj ):$/;"	m	class:deprecated	file:
+__init__	deprecation.py	/^    def __init__(self,extra = ''):$/;"	m	class:deprecated
+_assert_all_finite	validation.py	/^def _assert_all_finite(x):$/;"	f
+_decorate_class	deprecation.py	/^    def _decorate_class(self,cls):$/;"	m	class:deprecated
+_decorate_fun	deprecation.py	/^    def _decorate_fun(self,fun ):$/;"	m	class:deprecated
+_ravel	extmath.py	/^    _ravel = np.ravel $/;"	v
+_ravel	extmath.py	/^    _ravel = partial(np.ravel,order = 'K')$/;"	v
+_updata_doc	deprecation.py	/^    def _updata_doc(self,olddoc):$/;"	m	class:deprecated
+a	test.py	/^a = np.arange(25).reshape(5,5)$/;"	v
+array_trace	test.py	/^array_trace = np.trace(a)$/;"	v
+assert_all_finite	validation.py	/^def assert_all_finite(x):$/;"	f
+b	test.py	/^b = np.ones((5,5))$/;"	v
+check_array	validation.py	/^def check_array(array ,accept_sparse= None,dtype = 'numeric',order = None,$/;"	f
+check_if_fitted	validation.py	/^def check_if_fitted(estimator,attributes,all_or_any = all):$/;"	f
+check_is_numeric	validation.py	/^def check_is_numeric(ar):$/;"	f
+column_or_1d	validation.py	/^def column_or_1d(y,warn = True):$/;"	f
+deprecated	deprecation.py	/^class deprecated(object):$/;"	c
+inner_2	test.py	/^inner_2 = np.inner(a,b)$/;"	v
+inner_aa	test.py	/^inner_aa = np.einsum('...a,j...',a,b)$/;"	v
+norms	extmath.py	/^def norms(x):$/;"	f
+row_norms	extmath.py	/^def row_norms(x,squared = False):$/;"	f
+squared_norm	extmath.py	/^def squared_norm(x):$/;"	f
+wrapped	deprecation.py	/^        def wrapped(*arg,**kwargs):$/;"	f	function:deprecated._decorate_class
+wrapped	deprecation.py	/^        def wrapped(*args,**kwargs):$/;"	f	function:deprecated._decorate_fun

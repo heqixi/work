@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+__all__	__init__.py	/^__all__ =[ 'load_data_xls'$/;"	v
+__init__	load_data.py	/^    def __init__(self,file_dir,sheet_index = -1):$/;"	m	class:load_data_xls
+conn	mysql/test_connect.py	/^conn = pymysql.connect(host = 'localhost',port = 3306,user= 'test',passwd='994821',db ='mytest')$/;"	v
+create_table	mysql/load_data2myslq.py	/^def create_table(table_name,value_dict = None,key = None,engine = innodb):$/;"	f
+cursor	mysql/test_connect.py	/^cursor = conn.cursor() # get the cursor$/;"	v
+data	mysql/test_connect.py	/^data = (10,100)$/;"	v
+data	test.py	/^data = data[:20]$/;"	v
+data	test.py	/^data = load_data.load_data_xls('..\/data\/bank_data.xls')$/;"	v
+get_header	load_data.py	/^    def get_header(self,sheet_index = -1):$/;"	m	class:load_data_xls
+header	mysql/load_data2myslq.py	/^header = table.get_header()$/;"	v
+i	test.py	/^i = 0 $/;"	v
+load_data	load_data.py	/^    def load_data(self,sheet_index = -1):$/;"	m	class:load_data_xls
+load_data_xls	load_data.py	/^class load_data_xls(file_dir,sheet_index = -1):$/;"	c
+mysql_create_table	mysql/test_connect.py	/^def mysql_create_table (table_name,values_dict,key_dict,engine = innodb,foreign_key = None):$/;"	f
+sql	mysql/test_connect.py	/^sql = "insert into test (id ,parent_id) values (%i,%i) "$/;"	v
+sql_1	mysql/test_connect.py	/^sql_1 = "delimiter $$"$/;"	v
+table	mysql/load_data2myslq.py	/^table = load_data_xls.(file_data,1)$/;"	v
